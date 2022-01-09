@@ -12,3 +12,6 @@ Ans: Steps:-
          b. git add .
          c. git commit -m ".gitignore fixed"
      3. Reference : https://bytefreaks.net/programming-2/my-gitignore-file-is-ignored-by-git-and-it-does-not-work
+Q3: Changing dependencies to latest in startup project might leads to errors, so don't try to change that.
+
+
